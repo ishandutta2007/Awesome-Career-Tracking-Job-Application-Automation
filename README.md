@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Career-Tracking-Job-Application-Automation/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Career-Tracking-Job-Application-Automation?style=flat-square&logo=github" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Career-Tracking-Job-Application-Automation/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Career-Tracking-Job-Application-Automation?style=flat-square&logo=github" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Career-Tracking-Job-Application-Automation/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Career-Tracking-Job-Application-Automation?style=flat-square&logo=github" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Career-Tracking-Job-Application-Automation/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg?style=flat-square" alt="License: MIT" /></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -131,7 +131,7 @@ Contributions are warmly welcomed! Help expand this directory:
 
 1. **Fork the repository** to your GitHub account.
 2. **Add or refine an entry** in `README.md` adhering to the table or list schema.
-3. **Validate links and star counts** to maintain quality and accuracy.
+3. **Validate links and Stars_Counts** to maintain quality and accuracy.
 4. **Submit a Pull Request** with a succinct description of the tool.
 
 ---
