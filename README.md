@@ -44,65 +44,18 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## SaaS/Hosted Platforms
 
-
-
-- **[Huntr](https://huntr.co)**  
-
-  Kanban-style job application tracker, browser extension clipper, AI resume builder, and contact/interview organizer designed for managing active job searches.
-
-
-
-- **[Teal](https://tealhq.com)**  
-
-  All-in-one career growth platform combining a multi-board job application tracker, AI resume keyword matcher, and tailored bullet-point generator.
-
-
-
-- **[Jobscan](https://jobscan.co)**  
-
-  Applicant Tracking System (ATS) optimization platform that scores resumes and cover letters against job descriptions to surface missing skills and formatting issues.
-
-
-
-- **[Careerflow.ai](https://careerflow.ai)**  
-
-  AI-powered job search copilot offering a CRM application tracker, LinkedIn profile optimizer, autofill browser extension, and networking outreach templates.
-
-
-
-- **[LazyApply](https://lazyapply.com)**  
-
-  Automated job application browser extension designed to autofill and submit high-volume applications across LinkedIn, Indeed, and ZipRecruiter.
-
-
-
-- **[Sonara](https://sonara.ai)**  
-
-  AI job-matching and automated application service that continuously scans job boards for role fit and queues applications on behalf of candidates.
-
-
-
-- **[Kickresume](https://kickresume.com)**  
-
-  Cloud-based AI resume, cover letter, and personal website builder featuring customizable templates, ATS checks, and career map tools.
-
-
-
-- **[Rezi](https://rezi.ai)**  
-
-  AI-driven resume builder focused on strict ATS formatting compliance, real-time content scoring, and automated keyword targeting.
-
-
-
-- **[EarnBetter](https://earnbetter.com)**  
-
-  AI-assisted job search and document tailoring platform that reformats resumes, drafts custom cover letters, and curates matching job listings.
-
-
-
-- **[Jobseeker](https://jobseeker.com)**  
-
-  Cloud career toolkit providing structured resume/CV builders, cover letter generators, job alerts, and application status tracking.
+| Product | Company Size (Valuation / Revenue / Funding) | Starting Paid Pricing | Free Tier / Trial Limits | Description |
+| :--- | :--- | :--- | :--- | :--- |
+| **[EarnBetter](https://earnbetter.com)** | **$590M+ valuation** / ~$93.6M ARR *(Acquired by EarnIn; $518M total funding)* | **Free** ($0 / 100% employer-funded model) | **Free forever with full access** (Unlimited AI resume tailoring, cover letters, and job tracking; no paywalls) | AI-assisted job search and document tailoring platform that reformats resumes, drafts custom cover letters, and curates matching job listings. |
+| **[Sonara](https://sonara.ai)** | **$100M+ parent scale** *(Acquired by BOLD LLC; previously raised ~$5.8M)* | **$23.95 / 4 weeks** (or $71.40/yr) | **14-day trial or first 10 automated job applications** (whichever comes first, via $2.95 introductory trial) | AI job-matching and automated application service that continuously scans job boards for role fit and queues applications on behalf of candidates. |
+| **[Teal](https://tealhq.com)** | **$20.7M funding** / ~$10M–$15M est. ARR *(Series A backed by Flybridge & CityLight)* | **$9 / week** (or $29/mo, $79/quarter, $179/yr) | **Free forever with limits** (Unlimited job tracking, unlimited basic resume exports, 10 resume templates, top 5 keywords per job description, 5 one-time AI bullet credits, 2 one-time AI summary credits, 2 one-time AI cover letter credits) | All-in-one career growth platform combining a multi-board job application tracker, AI resume keyword matcher, and tailored bullet-point generator. |
+| **[Careerflow.ai](https://careerflow.ai)** | **~$5.6M–$8.1M ARR** *(Seed/Techstars-backed)* | **$23.99 / month** (or $14.41/mo billed annually) | **Free forever with limits** (Up to 10 jobs tracked on CRM board, 1 resume creation/import with basic ATS score; AI cover letter/email writers and one-click optimizer locked) | AI-powered job search copilot offering a CRM application tracker, LinkedIn profile optimizer, autofill browser extension, and networking outreach templates. |
+| **[Jobscan](https://jobscan.co)** | **~$3.8M–$7.6M ARR** *(Bootstrapped & profitable)* | **$49.95 / month** (or $89.95/quarter with 7-day free trial) | **Free forever with limits** (5 resume & ATS scans per month, condensed ATS/recruiter findings report, basic job tracker; unlimited AI optimization locked) | Applicant Tracking System (ATS) optimization platform that scores resumes and cover letters against job descriptions to surface missing skills and formatting issues. |
+| **[Kickresume](https://kickresume.com)** | **~$1.9M–$4.4M ARR** / ~$100K seed *(VentureOut backed)* | **$19 / month** (or $13/mo billed quarterly, $8/mo billed annually) | **Free forever with limits** (4 basic resume templates, 4 cover letter templates, 1 basic website template, unlimited PDF downloads; AI resume writer and ATS checker locked) | Cloud-based AI resume, cover letter, and personal website builder featuring customizable templates, ATS checks, and career map tools. |
+| **[Rezi](https://rezi.ai)** | **~$2.9M–$3.2M ARR** / ~$338K early funding *(Bootstrapped SaaS)* | **$29 / month** (or $19/mo billed quarterly, $149 lifetime) | **Free forever with limits** (1 active resume, up to 3 lifetime PDF downloads, basic ATS keyword targeting, 1 AI interview practice session) | AI-driven resume builder focused on strict ATS formatting compliance, real-time content scoring, and automated keyword targeting. |
+| **[Jobseeker](https://jobseeker.com)** | **Multi-million est. ARR** *(Operated by Resumedia B.V., Amsterdam)* | **$19.99 / month** (after 14-day introductory trial) | **14-day full-access trial** ($0.99 intro fee; auto-renews at $19.99/mo unless cancelled; creates/edits resumes and cover letters with job tracking) | Cloud career toolkit providing structured resume/CV builders, cover letter generators, job alerts, and application status tracking. |
+| **[Huntr](https://huntr.co)** | **~$1M+ ARR** *(Bootstrapped / Product-led)* | **$40 / month** (or $90/3-mo, $160/6-mo) | **Free forever with limits** (Up to 100 tracked jobs on Kanban board, unlimited Chrome application autofills, up to 100 document uploads, unlimited basic resume PDF exports, but capped at 2 AI-tailored resumes and 2 AI application packets) | Kanban-style job application tracker, browser extension clipper, AI resume builder, and contact/interview organizer designed for managing active job searches. |
+| **[LazyApply](https://lazyapply.com)** | **Bootstrapped niche scale** *(Unfunded, founder-owned)* | **$99 / year** (Basic plan, annual billing) | **No free tier** (Full access requires paid plan; Basic is capped at 15 automated applications/day across 1 profile, Premium at 150/day across 5 profiles; 30-day conditional money-back policy) | Automated job application browser extension designed to autofill and submit high-volume applications across LinkedIn, Indeed, and ZipRecruiter. |
 
 
 
