@@ -159,5 +159,3 @@ Thank you for exploring and utilizing this collection! If this ecosystem guide s
 <p align="center">
   <b>Built for job seekers, software engineers, and career technologists worldwide. 🚀</b>
 </p>
-# Awesome-Career-Tracking-Job-Application-Automation
-
